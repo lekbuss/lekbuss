@@ -1,6 +1,5 @@
 # Hi, I'm Lek 👋
-chinese name:Zhao weihao
-japanesename:Asakawa satoru
+
 **Global System Engineer @ Ricoh** &nbsp;·&nbsp; 📍 Tokyo, Japan
 
 ---
